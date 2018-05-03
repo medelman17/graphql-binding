@@ -27,7 +27,7 @@
     "apollo-link": "1.2.1",
     "ava": "0.25.0",
     "graphql": "0.13.2",
-    "tslint": "5.9.1",
+    "tslint": "5.10.0",
     "tslint-config-standard": "7.0.0",
     "typescript": "2.7.2"
   },
